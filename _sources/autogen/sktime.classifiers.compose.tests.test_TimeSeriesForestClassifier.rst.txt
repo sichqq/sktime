@@ -1,0 +1,7 @@
+sktime.classifiers.compose.tests.test\_TimeSeriesForestClassifier module
+========================================================================
+
+.. automodule:: sktime.classifiers.compose.tests.test_TimeSeriesForestClassifier
+   :members:
+   :undoc-members:
+   :show-inheritance:

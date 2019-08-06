@@ -1,0 +1,7 @@
+sktime.highlevel.tests.test\_Forecasting2TSRReductionStrategy module
+====================================================================
+
+.. automodule:: sktime.highlevel.tests.test_Forecasting2TSRReductionStrategy
+   :members:
+   :undoc-members:
+   :show-inheritance:

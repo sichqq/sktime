@@ -1,0 +1,14 @@
+sktime.classifiers.distance\_based.tests package
+================================================
+
+.. automodule:: sktime.classifiers.distance_based.tests
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Submodules
+----------
+
+.. toctree::
+
+   sktime.classifiers.distance_based.tests.test_proximity

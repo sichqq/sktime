@@ -1,0 +1,7 @@
+sktime.highlevel.tests.test\_ForecastingStrategy module
+=======================================================
+
+.. automodule:: sktime.highlevel.tests.test_ForecastingStrategy
+   :members:
+   :undoc-members:
+   :show-inheritance:

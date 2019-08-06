@@ -1,0 +1,22 @@
+sktime.classifiers.compose package
+==================================
+
+.. automodule:: sktime.classifiers.compose
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+   sktime.classifiers.compose.tests
+
+Submodules
+----------
+
+.. toctree::
+
+   sktime.classifiers.compose.column_ensembler
+   sktime.classifiers.compose.ensemble

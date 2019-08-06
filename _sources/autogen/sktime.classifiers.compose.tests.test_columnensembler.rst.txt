@@ -1,0 +1,7 @@
+sktime.classifiers.compose.tests.test\_columnensembler module
+=============================================================
+
+.. automodule:: sktime.classifiers.compose.tests.test_columnensembler
+   :members:
+   :undoc-members:
+   :show-inheritance:

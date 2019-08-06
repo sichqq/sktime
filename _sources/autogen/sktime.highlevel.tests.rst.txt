@@ -1,0 +1,17 @@
+sktime.highlevel.tests package
+==============================
+
+.. automodule:: sktime.highlevel.tests
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Submodules
+----------
+
+.. toctree::
+
+   sktime.highlevel.tests.test_Forecasting2TSRReductionStrategy
+   sktime.highlevel.tests.test_ForecastingStrategy
+   sktime.highlevel.tests.test_TSCStrategy
+   sktime.highlevel.tests.test_tasks

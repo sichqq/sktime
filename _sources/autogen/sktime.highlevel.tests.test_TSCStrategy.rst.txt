@@ -1,0 +1,7 @@
+sktime.highlevel.tests.test\_TSCStrategy module
+===============================================
+
+.. automodule:: sktime.highlevel.tests.test_TSCStrategy
+   :members:
+   :undoc-members:
+   :show-inheritance:

@@ -1,0 +1,7 @@
+sktime.highlevel.tests.test\_tasks module
+=========================================
+
+.. automodule:: sktime.highlevel.tests.test_tasks
+   :members:
+   :undoc-members:
+   :show-inheritance:

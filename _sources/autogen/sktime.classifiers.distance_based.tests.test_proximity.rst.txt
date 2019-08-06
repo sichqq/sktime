@@ -1,0 +1,7 @@
+sktime.classifiers.distance\_based.tests.test\_proximity module
+===============================================================
+
+.. automodule:: sktime.classifiers.distance_based.tests.test_proximity
+   :members:
+   :undoc-members:
+   :show-inheritance:

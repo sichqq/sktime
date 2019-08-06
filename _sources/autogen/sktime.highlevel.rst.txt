@@ -1,0 +1,22 @@
+sktime.highlevel package
+========================
+
+.. automodule:: sktime.highlevel
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+   sktime.highlevel.tests
+
+Submodules
+----------
+
+.. toctree::
+
+   sktime.highlevel.strategies
+   sktime.highlevel.tasks
