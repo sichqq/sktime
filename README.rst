@@ -38,7 +38,7 @@ Development version
 ~~~~~~~~~~~~~~~~~~~
 To install the development version, follow these steps:
 
-1. Download the repository: :code:`git clone https://github.com/alan-turing-institute/sktime.git`
+1. Download the repository: :code:`git clone https://github.com/sichqq/sktime.git`
 2. Move into the root directory of the repository: :code:`cd sktime`
 3. Switch to development branch: :code:`git checkout dev`
 4. Make sure your local version is up-to-date: :code:`git pull`
